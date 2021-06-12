@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Reem Khalil
 - 👀 I’m interested in web development 
 - 🌱 I’m currently doing my masters degree
-- 💞️ I’m looking to collaborate on ...
+
 
 
 <!---
